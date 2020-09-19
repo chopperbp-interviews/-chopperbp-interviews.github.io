@@ -1,0 +1,14 @@
+remote_theme: pmarsceill/just-the-docs
+title: Interviews Q&A
+exclude:
+  ["README.md"]
+ga_tracking: UA-178435335-1
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+footer_content: ""
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
