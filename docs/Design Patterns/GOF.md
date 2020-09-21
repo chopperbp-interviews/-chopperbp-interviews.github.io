@@ -6,6 +6,8 @@ nav_order: 1
 ---
 # Gang of Four (GoF)
 Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+(Design Patterns in C# - Refactoring.Guru)[https://refactoring.guru/design-patterns/csharp]  
+[The Difference Between An Adapter And A Wrapper](https://www.thecodedself.com/The-Difference-Between-an-Adapter-and-a-Wrapper/)  
 ## Creational pattern
 Creational patterns are ones that create objects, rather than having to instantiate objects directly. This gives the program more flexibility in deciding which objects need to be created for a given case.
 * **Abstract** factory groups object factories that have a common theme.
